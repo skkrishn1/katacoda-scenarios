@@ -1,0 +1,16 @@
+{
+  "title": "Getting started",
+  "description": "Getting started courses to get up and running with Eclipse JKube",
+  "courses": [
+    {
+      "course_id": "spring-boot-quickstart",
+      "title": "Spring Boot Quickstart",
+      "description": "Creating a Spring Boot project and deploying it to Kubernetes using Eclipse JKube"
+    },
+    {
+      "course_id": "spring-in-tomcat-quickstart",
+      "title": "Spring Web MVC with Tomcat (WAR) Quickstart",
+      "description": "Creating a Spring Web MVC project and deploying it to Kubernetes using Eclipse JKube"
+    }
+  ]
+}
